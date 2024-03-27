@@ -1,0 +1,59 @@
+/* ROOT */
+
+:root{
+    --width-box: calc(100% / 5);
+    --height-box: var(--width-box);
+}
+
+/* RESET */
+
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    font-family: sans-serif;
+    font-weight: 600;
+    font-size: 1.5rem;
+}
+
+/* MAIN */
+
+
+.fizz {
+    background-color: #0bd6a1 !important;
+}
+
+.buzz {
+    background-color: #ffd166 !important;
+}
+
+.fizzbuzz {
+    background-color: #f0466f !important;
+}
+
+.container{
+    background-color: #083b4c ;
+    width: 100%;
+    height: 100%;
+    padding: 6rem;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.box{
+    width: 200px;
+    height: 200px;
+    padding: 20px;
+}
+
+.inner-box{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #1389b2;
+}

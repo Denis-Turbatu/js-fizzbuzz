@@ -45,9 +45,10 @@ Se (num % 3 === 0 && num % 5 === 0){
 
 ### BONUS 1
 
-- [] Creare nel 'for' variabile per estrarre elemento contenitore in HTML
-- [] Creare variabile che stampa il risultato 
+- [] Creare una variabile per estrarre elemento contenitore in HTML
+- [] Creare variabile che stampa il risultato
+- [] Creare gli elementi box per poter mettere il  testo all'interno
 
 ### BONUS 2
 
-- [] Estrarre classe oggetto html e cambiarlo con classe corretta in base al contenuto delle box
+- [] Estrarre il box che contiene il testo per poi cambiare le classi nel 'if'
