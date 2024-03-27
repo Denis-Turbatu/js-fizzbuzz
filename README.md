@@ -21,8 +21,8 @@
 
 ### ESECUZIONE LOGICA
 
-- [] Creare ciclo 'for' per stampare i numeri da 1 a 100
-- [] Fare nel 'for' un 'if statement' per verificare se i nuumeri sono divisibili
+- [X] Creare ciclo 'for' per stampare i numeri da 1 a 100
+- [X] Fare nel 'for' un 'if statement' per verificare se i nuumeri sono divisibili
 
 ```
 Se (num % 3 === 0 && num % 5 === 0){
@@ -39,7 +39,7 @@ Se (num % 3 === 0 && num % 5 === 0){
 
 ### OUTPUT
 
-- [] Stampare tutto nella console
+- [X] Stampare tutto nella console
 
 > 1 > 2 > Fizz > 4 > Buzz > Fizz ... > 14 > FizzBuzz ...
 
