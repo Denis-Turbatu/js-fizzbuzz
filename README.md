@@ -25,12 +25,13 @@
 - [] Fare nel 'for' un 'if statement' per verificare se i nuumeri sono divisibili
 
 ```
-Se (num % 3 === 0){
+Se (num % 3 === 0 && num % 5 === 0){
+    stampare fizzbuzz
+    num++
+}Se altrimenti(num % 3 === 0){
     stampare fizz
 }Se altrimenti(num % 5 === 0){
     stampare buzz
-}Se altrimenti(num % 3 === 0 && num % 5 === 0){
-    stampare fizzbuzz
 }Altrimenti{
     stampare numero del ciclo
 }
@@ -46,4 +47,7 @@ Se (num % 3 === 0){
 
 - [] Creare nel 'for' variabile per estrarre elemento contenitore in HTML
 - [] Creare variabile che stampa il risultato 
+
+### BONUS 2
+
 - [] Estrarre classe oggetto html e cambiarlo con classe corretta in base al contenuto delle box
